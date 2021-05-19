@@ -1,2 +1,2 @@
 # Python
-Estudados em Analise de dados
+Estudos para Analise de dados
